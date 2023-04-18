@@ -2,6 +2,7 @@
 	"name": "pr1",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://stibish.github.io",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
@@ -9,6 +10,7 @@
 		"bootstrap": "^5.2.3",
 		"eslint-plugin-react": "^7.32.2",
 		"framer-motion": "^10.11.2",
+		"gh-pages": "^5.0.0",
 		"mdb-react-ui-kit": "5.1.0",
 		"react": "^18.2.0",
 		"react-bootstrap": "^2.7.2",
